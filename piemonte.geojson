@@ -38414,7 +38414,7 @@
       "restriction" : null,
       "addresses" : null,
       "code" : [ "CAP-IT:1.0" ],
-      "note" : "IT-alert test Toscana 2023-06-28",
+      "note" : "IT-alert test Piemonte 2023-06-28",
       "references" : null,
       "incidents" : null,
       "language" : "en-US",
@@ -38427,14 +38427,14 @@
       "audience" : null,
       "eventCode" : [ {
         "valueName" : "it-alert-public-test",
-        "value" : "Toscana 2023-06-26"
+        "value" : "Piemonte 2023-06-26"
       } ],
       "effective" : "2023-06-28T10:00:00.000+00:00",
       "onset" : "2023-06-28T10:00:00.000+00:00",
       "expires" : "2023-06-28T10:00:00.000+00:00",
       "senderName" : "Presidency of the Council of Ministers - Civil Protection Department",
-      "headline" : "IT-alert public test - Tuscany region - 2023-06-28",
-      "description" : "IT-alert public test - Tuscany region - 28/06/2023. This is a TEST MESSAGE from the Italian public\n            alert system. It will alert you in the event of a major emergency once operational. To get more information\n            go to www.it-alert.it and fill out the questionnaire.\n        ",
+      "headline" : "IT-alert public test - Piemonte region - 2023-06-28",
+      "description" : "IT-alert public test - Piemonte region - 28/06/2023. This is a TEST MESSAGE from the Italian public\n            alert system. It will alert you in the event of a major emergency once operational. To get more information\n            go to www.it-alert.it and fill out the questionnaire.\n        ",
       "instruction" : "I-00 Test message, no self-protection action needed. Fill out the questionnaire at\n            https://url-questionario.\n        ",
       "web" : "https://www.it-alert.it",
       "contact" : null,
